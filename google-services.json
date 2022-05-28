@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "631979487162",
+    "project_id": "whatsapp-8349c",
+    "storage_bucket": "whatsapp-8349c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631979487162:android:5fb2623f7853d21f433783",
+        "android_client_info": {
+          "package_name": "offfocus.WhatsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631979487162-r4sicqhhbf7njqn4cf23is5rukm3br8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAUptekfout6G2D5N1h5UYhODAAl4uvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631979487162-r4sicqhhbf7njqn4cf23is5rukm3br8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631979487162-o42opdj4tc6utfo381qmnngebls0h9lr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "offfocus.WhatsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
